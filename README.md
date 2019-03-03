@@ -26,4 +26,12 @@ The model uses a CNN based Architecture.
 </p>
 
 ### References
-Dataset downloaded from Kaggle https://www.kaggle.com/c/facial-keypoints-detection/. 
+Dataset downloaded from Kaggle https://www.kaggle.com/c/facial-keypoints-detection/.
+
+# Thanks
+
+Comments? Suggestions?
+
+Please, leave a comment.
+
+Thanks for being here! Enjoy!
