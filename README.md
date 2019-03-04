@@ -1,5 +1,5 @@
 [![HitCount](http://hits.dwyl.io/abhinav-codealchemist/Facial_Keypoint_Detection.svg)](http://hits.dwyl.io/abhinav-codealchemist/Facial_Keypoint_Detection)
-# <u>Facial Keypoint Detection</u>
+# <u>Facial Keypoints Detection</u>
 
 I have made a Facial Keypoints Regressor that regresses the keypoints for human face. This keypoint detection problem is a regression problem since we are predicting the coordinates for the landmarks on the face which are real numbers. 
 Detection of facial keypoints is very useful for a number of tasks like facial recognition, detection etc. The keypoints selected in this code uses 15 keypoints representing the various coordinates on the human face. 
