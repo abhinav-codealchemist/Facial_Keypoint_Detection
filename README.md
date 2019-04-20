@@ -17,6 +17,7 @@ Predictions for some real world color images.
 
 ## Model Performance on Validation data
 Predictions for some validation images.
+
 ![validation](images/snap.png)
 
 ## Model Architecture
