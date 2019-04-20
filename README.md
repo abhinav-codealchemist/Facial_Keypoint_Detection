@@ -22,7 +22,7 @@ Predictions for some validation images.
 ## Model Architecture
 The model uses a CNN based Architecture.
 <p align="center">
-  <img src ='images/model_plot.png'  width="321" height="1000" >
+  <img src ='images/model_plot.png'  width="800" height="800" >
 </p>
 
 ### References
