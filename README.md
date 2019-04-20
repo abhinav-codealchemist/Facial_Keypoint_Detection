@@ -10,9 +10,9 @@ CNN was used for this problem. The model achieved an accuracy of 76% on the vali
 ## Model Performance on real world data
 Predictions for some real world color images.
 
-<img src ='images/1.png'  width="330" height="380">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src ='images/4.png'  width="380" height="380">
+<img src ='images/1.png'  width="380" height="380">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src ='images/4.png'  width="380" height="380">
 
-<img src ='images/6.png'  width="330" height="480">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src ='images/5.png'  width="520" height="390">
+<img src ='images/6.png'  width="380" height="380">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src ='images/5.png'  width="380" height="380">
 
 
 ## Model Performance on Validation data
